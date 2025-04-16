@@ -6,7 +6,7 @@ def create_wordcloud_from_titles(titles):
     text=" ".join(titles)
 
     wordcloud=WordCloud(
-        font_path="/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",
+        font_path="fonts/NotoSansCJK-Regular.ttc",
         width=800,
         height=400,
         background_color="white"
