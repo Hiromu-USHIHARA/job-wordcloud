@@ -31,7 +31,7 @@ job-wordcloud-app/
 │   ├── app.py                    # Streamlit アプリ本体
 │   ├── get_job_titles.py         # 求人情報取得処理
 │   └── visualize.py              # ローカルテスト用可視化処理
-├── images/                        # 可視化の例
+├── images/                       # 可視化の例
 ├── fonts/
 │   └── NotoSansCJK-Regular.ttc   # 日本語対応フォント
 ├── requirements.txt
