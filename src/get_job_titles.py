@@ -22,5 +22,3 @@ def get_job_titles(city: str, max_pages: int = 1):
             job_titles.append(text)
 
     return job_titles
-
-print(get_job_titles("渋谷", 5))
